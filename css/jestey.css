@@ -1,5 +1,9 @@
+.body {
+    font-family: 'Rubik', sans-serif;
+}
 
 .jestey_header {
+    font-family: 'Rubik', sans-serif;
     min-height: 50em;
     margin-bottom: 0px;
     background-position: 0% 25%;
@@ -8,9 +12,13 @@
 }
 
 .jestey_section {
+    font-family: 'Rubik', sans-serif;
 	min-height: 50em;
+    font-size: 16pt;
     color: white;
+    text-shadow: black 2px 2px 2px;
 	background-color: grey;
+    padding-top: 5em;
 }
 
 .jestey_section a {
@@ -19,8 +27,6 @@
 
 #jestey_header1 {
     background-image: url(../img/mainst.jpg);
-    color: white;
-    text-shadow: black 0.1em 0.1em 0.1em;
 }
 
 #jestey_section1 {
@@ -28,11 +34,11 @@
 }
 
 #jestey_portrait {
+    float: left;
 	padding: 3em;
+    width: 20%;
 }
 
 #jestey_header2 {
     background-image: url(../img/woodland.jpg);
-    color: white;
-    text-shadow: black 0.1em 0.1em 0.1em;
 }
