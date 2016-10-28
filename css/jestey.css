@@ -1,0 +1,38 @@
+
+.jestey_header {
+    min-height: 50em;
+    margin-bottom: 0px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jestey_section {
+	min-height: 50em;
+    color: white;
+	background-color: grey;
+}
+
+.jestey_section a {
+    color: white;
+}
+
+#jestey_header1 {
+    background-image: url(../img/mainst.jpg);
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+#jestey_section1 {
+	background: linear-gradient(rgb(20, 56, 54), rgb(10, 24, 38));
+}
+
+#jestey_portrait {
+	padding: 3em;
+}
+
+#jestey_header2 {
+    background-image: url(../img/woodland.jpg);
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
