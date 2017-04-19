@@ -1,32 +1,37 @@
-.body {
-    font-family: 'Rubik', sans-serif;
+body {
+	font-family: 'Rubik', sans-serif;
+}
+
+.jestey_content {
+	margin: 0 auto;
+	max-width: 50em;
 }
 
 .jestey_header {
-    font-family: 'Rubik', sans-serif;
-    min-height: 50em;
-    margin-bottom: 0px;
-    background-position: 0% 25%;
-    background-size: cover;
-    background-repeat: no-repeat;
+	font-family: 'Rubik', sans-serif;
+	min-height: 50em;
+	margin-bottom: 0px;
+	background-position: 0% 25%;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .jestey_section {
-    font-family: 'Rubik', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	min-height: 50em;
-    font-size: 16pt;
-    color: white;
-    text-shadow: black 2px 2px 2px;
+	font-size: 16pt;
+	color: white;
+	text-shadow: black 2px 2px 2px;
 	background-color: grey;
-    padding-top: 5em;
+	padding-top: 5em;
 }
 
 .jestey_section a {
-    color: white;
+	color: white;
 }
 
 #jestey_header1 {
-    background-image: url(../img/mainst.jpg);
+	background-image: url(../img/mainst.jpg);
 }
 
 #jestey_section1 {
@@ -34,11 +39,11 @@
 }
 
 #jestey_portrait {
-    float: left;
+	float: left;
 	padding: 3em;
-    width: 20%;
+	width: 20%;
 }
 
 #jestey_header2 {
-    background-image: url(../img/woodland.jpg);
+	background-image: url(../img/woodland.jpg);
 }
