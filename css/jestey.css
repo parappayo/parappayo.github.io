@@ -47,3 +47,7 @@ body {
 #jestey_header2 {
 	background-image: url(../img/woodland.jpg);
 }
+
+#jestey_section3 {
+	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
+}
