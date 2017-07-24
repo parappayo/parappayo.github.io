@@ -51,3 +51,8 @@ body {
 #jestey_section3 {
 	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
 }
+
+.portfolio_slide {
+	display: none;
+	width: 60%;
+}
