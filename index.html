@@ -52,35 +52,19 @@
 	</div>
 </div>
 
-<script>
-var visibleSlideIndex = -1;
-startCarousel();
-
-function startCarousel() {
-	var className = "portfolio_slide";
-	var duration = 3000;
-
-	var slides = document.getElementsByClassName(className);
-	console.log(slides);
-	for (var index = 0; index < slides.length; index++) {
-		slides[index].style.display = "none";
-	};
-
-	visibleSlideIndex++;
-	if (visibleSlideIndex >= slides.length) {
-		visibleSlideIndex = 0;
-	}
-
-	slides[visibleSlideIndex].style.display = "block";
-	setTimeout(startCarousel, duration);
-}
-</script>
-
 <div class="jumbotron jestey_header" id="jestey_header2">
 </div>
 
 <div class="jestey_section" id="jestey_section2">
 	<div class="container jestey_content">
+		<p>I also do hobby programming including various demos and game jam projects. It is a great way to make new connections and the only effective way to keep my skills current. I've participated in both <a href="http://ludumdare.com/compo/author/parappayo/">Ludum Dare</a> and Global Game Jam.</p>
+
+		<p>For a while I was part of a game jam team that I co-founded. We called oursleves the <a href="https://www.facebook.com/ghostpxs/">Ghost Pixels</a> and we produced a few small Flash games. Our most ambitious title is Black Square which we <a href="https://www.ouya.tv/game/Black-Square/">released as a free game</a> for the Ouya, an Android OS micro-console.</p>
+
+		<p>One of my more popular jam projects is Many Ninjas, which has been featured on various blogs and sites dedicated to incremental progress idle games (eg. <a href="http://almostidle.com/game/many-ninjas">Almost Idle</a>.) I made it in a single, lazy weekend for Ludum Dare 30. Thousands of people have played it, and a few of those people even enjoyed it.</p>
+
+		<p>Many of my jam projects were built for Flash or the Unity Web Player and are not conveniently hostable on the web. Application platforms are a moving target.</p>
+
 		<h3>Game Jam Projects</h3>
 		<ul>
 			<li><a href="http://www.kongregate.com/games/ghostpxs/black-square">Black Square</a> (on Kongregate)</li>
@@ -95,8 +79,44 @@ function startCarousel() {
 			<li><a href="demo/go-board/">Go Board</a></li>
 			<li><a href="demo/shoot-em-up/shooter.html">Shmup</a></li>
 		</ul>
+
+		<div>
+			<a href="">
+				<img class="jam_slide" src="img/portfolio/black-square.jpg"></a>
+			<a href="">
+				<img class="jam_slide" src="img/portfolio/many-ninjas.jpg"></a>
+			<a href="">
+				<img class="jam_slide" src="img/portfolio/safari.jpg"></a>
+		</div>
 	</div>
 </div>
+
+<script>
+var visibleSlideIndex = 0;
+startCarousel();
+
+function updateCarosel(className, slideIndex) {
+	var slides = document.getElementsByClassName(className);
+	slideIndex = slideIndex % slides.length;
+
+	for (var index = 0; index < slides.length; index++) {
+		slides[index].style.display = "none";
+	};
+
+	slides[slideIndex].style.display = "block";
+}
+
+function startCarousel() {
+	var className = "jam_slide";
+	var duration = 3000;
+
+	updateCarosel("portfolio_slide", visibleSlideIndex);
+	updateCarosel("jam_slide", visibleSlideIndex);
+	visibleSlideIndex++;
+
+	setTimeout(startCarousel, duration);
+}
+</script>
 
 <!-- <div class="jumbotron jestey_header" id="jestey_header3">
 </div>

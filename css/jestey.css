@@ -24,10 +24,11 @@ body {
 	text-shadow: black 2px 2px 2px;
 	background-color: grey;
 	padding-top: 5em;
+	padding-bottom: 5em;
 }
 
 .jestey_section a {
-	color: white;
+	color: cyan;
 }
 
 #jestey_header1 {
@@ -55,4 +56,9 @@ body {
 .portfolio_slide {
 	display: none;
 	width: 60%;
+}
+
+.jam_slide {
+	display: none;
+	width: 40%;
 }
