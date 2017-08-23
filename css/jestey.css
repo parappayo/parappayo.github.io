@@ -55,10 +55,10 @@ body {
 
 .portfolio_slide {
 	display: none;
-	width: 60%;
+	height: 24em;
 }
 
 .jam_slide {
 	display: none;
-	width: 40%;
+	height: 24em;
 }
