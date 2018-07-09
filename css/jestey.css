@@ -11,6 +11,7 @@ body {
 	font-family: 'Rubik', sans-serif;
 	min-height: 50em;
 	margin-bottom: 0px;
+	background-attachment: fixed;
 	background-position: 0% 25%;
 	background-size: cover;
 	background-repeat: no-repeat;
