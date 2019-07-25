@@ -13,8 +13,9 @@ My take in summary,
 
 * Pushing a local branch for the first time: `git push --set-upstream origin HEAD`
 * Updating recursive submodules: `git submodule update --init --recursive`
-* Discard unstaged changes: `git checkout -- .`
-* Forcefully revert local changes: `git reset --hard`
+* Discard unstaged changes: `git checkout -- .` (warning: destructive)
+* Remove untracked files: `git clean -f` (warning: destructive)
+* Forcefully revert local changes: `git reset --hard` (warning: destructive)
 
 ## Difficulty Multipliers
 
