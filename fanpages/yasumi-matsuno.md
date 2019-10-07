@@ -1,4 +1,4 @@
-# Yasumi Matsuno (松野 泰己) Fanpage
+# Yasumi Matsuno 松野 泰己 Fanpage
 
 ## Selected Works, Chronological
 
