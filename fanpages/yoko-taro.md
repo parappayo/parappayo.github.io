@@ -1,4 +1,4 @@
-# Yoko Taro (横尾 太郎) Fanpage
+# Yoko Taro 横尾 太郎 Fanpage
 
 ## Selected Works, Chronological
 
