@@ -11,11 +11,13 @@ My take in summary,
 
 ## Helpful Commands
 
+* Create a local branch and check it out at the same time: `git branch -b my-branch-name`
 * Pushing a local branch for the first time: `git push --set-upstream origin HEAD`
 * Updating recursive submodules: `git submodule update --init --recursive`
 * Discard unstaged changes: `git checkout -- .` (warning: destructive)
 * Remove untracked files: `git clean -f` (warning: destructive)
 * Forcefully revert local changes: `git reset --hard` (warning: destructive)
+* Undo last local commit, keeping changes: `git reset HEAD^`
 
 ## Difficulty Multipliers
 
