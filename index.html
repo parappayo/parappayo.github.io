@@ -6,6 +6,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/jestey.css" rel="stylesheet">
+	<script src="img_carosel.js"></script>
 </head>
 
 <body>
@@ -17,24 +18,59 @@
 		</div>
 		<ul class="nav navbar-nav">
 			<li><a href="#jestey_section1">About</a></li>
-			<li><a href="#jestey_section2">Games</a></li>
-			<li><a href="#jestey_section3">Links</a></li>
+			<li><a href="#jestey_section2">Coding</a></li>
+			<li><a href="#jestey_section3">Leadership</a></li>
+			<li><a href="#jestey_section4">Games</a></li>
+			<li><a href="#jestey_section5">Techs</a></li>
+			<li><a href="#jestey_section6">Links</a></li>
 		</ul>
  	</div>
 </nav>
 
-<div class="jumbotron jestey_header" id="jestey_header1">
-</div>
+<div class="jumbotron jestey_header" id="jestey_header1"></div>
 
 <div class="jestey_section" id="jestey_section1">
 	<div class="jestey_content">
+		<h3>About</h3>
+
 		<p>My name is Jason and I'm a computer programmer living in Vancouver, British Columbia.</p>
 
-		<p>I've spent over ten years of my career working to produce outstanding user interfaces for big budget video games. Samples of my work are showcased below.</p>
-		<p>I often do consulting or short term contracts to help build UI solutions for a variety of clients large and small. Let me know if you could use some tech help. Even if I am not available, I may be able to refer you to a colleague.</p>
+		<p>This page exists for colleagues and prospective employers to get to know me a little better. It provides context and flavour that may not be apparent from my curriculum vitae or LinkedIn profile.</p>
 	</div>
+</div>
 
-	<div class="jestey_content">
+<div class="jumbotron jestey_header" id="jestey_header2"></div>
+
+<div class="jestey_section" id="jestey_section2">
+	<div class="container jestey_content">
+		<h3>Coding</h3>
+
+		<p>I have some strong opinions about coding best practices. Specifically, I subscribe to the ideals for <a href="https://refactoring.com/">refactoring</a> and clean code as set out described by <a href="https://martinfowler.com/">Martin Fowler</a>. I also follow trends in <a href="https://devops.com/">DevOps</a> and believe that <a href="https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html">Psychological Safety</a> (see also: <a href="https://rework.withgoogle.com/">Google re:Work</a>) is the key factor in the success of software development teams.</p>
+
+		<p>Code reviews are a tricky topic that I have a lot of experience with. When done well, they provide a support structure for developers to get vitally important and constructive feedback on their work. When done poorly, they degenerate into an adult bullying playground that creates toxic cliques and drives competent developers away. It is not acceptable to skip code reviews, but it is also not acceptable for them to hurt people's feelings. As with all team communications, trust is a key factor.</p>
+	</div>
+</div>
+
+<div class="jestey_section" id="jestey_section3">
+	<div class="container jestey_content">
+		<h3>Leadership</h3>
+
+		<p>I have dipped my toe into the role of software development manager. Sometimes this has been an official role as tech team lead or even an actual "manager" title, and often this has taken the form of self-managing or managing upwards. Whether I prefer to be a manager or an "individual contributor" depends on the role and the context. Generally I prefer whatever role will make me the most valuable to the organization that I am a part of.</p>
+
+		<p>The role of manager is all about building trust and opening lines of communication. Two strong influences on my management beliefs are the books <a href="https://www.radicalcandor.com/the-book/">Radical Candor</a> by Kim Scott and <a href="https://www.oreilly.com/library/view/lean-software-development/0321150783/">Lean Software Development</a> by Tom & Mary Poppendieck. In leadership contexts some of the ideals that I strive for are to push for clarity, challenge assumptions, visualize work in progress, and shorten lead times on customer requests.</p>
+	</div>
+</div>
+
+<div class="jumbotron jestey_header" id="jestey_header4"></div>
+
+<div class="jestey_section" id="jestey_section4">
+	<div class="container jestey_content">
+		<h3>Games</h3>
+
+		<p>Video games are my life's work, at least in some respects. I arguably love technology and software development practices even more, but video games will always be my primary hobby. I play all kinds of video games, of just about every genre on just about every platform. I also enjoy the occasional board game or card game.</p>
+
+		<p>I've spent over ten years of my career working to produce outstanding user interfaces for big budget video games. Samples of my work are showcased below.</p>
+
 		<a href="https://en.wikipedia.org/wiki/Sleeping_Dogs_(video_game)">
 			<img class="portfolio_slide" src="img/portfolio/sleeping-dogs-map.jpg"></a>
 		<a href="https://en.wikipedia.org/wiki/Need_for_Speed:_Undercover">
@@ -43,14 +79,7 @@
 			<img class="portfolio_slide" src="img/portfolio/homeworld-dok-fleet-customization.jpg"></a>
 		<a href="https://en.wikipedia.org/wiki/Need_for_Speed:_ProStreet">
 			<img class="portfolio_slide" src="img/portfolio/nfs-prostreet-main-menu.jpg"></a>
-	</div>
-</div>
 
-<div class="jumbotron jestey_header" id="jestey_header2">
-</div>
-
-<div class="jestey_section" id="jestey_section2">
-	<div class="container jestey_content">
 		<p>I also do hobby programming including various demos and game jam projects. It is a great way to make new connections and the only effective way to keep my skills current. I've participated in both <a href="http://ludumdare.com/compo/author/parappayo/">Ludum Dare</a> and Global Game Jam.</p>
 
 		<p>For a while I was part of a game jam team that I co-founded. We called oursleves the <a href="https://www.facebook.com/ghostpxs/">Ghost Pixels</a> and we produced a few small Flash games. Our most ambitious title is Black Square which we <a href="https://www.ouya.tv/game/Black-Square/">released as a free game</a> for the Ouya, an Android OS micro-console.</p>
@@ -86,82 +115,61 @@
 </div>
 
 <script>
-function setElementOpacity(element, opacity) {
-	element.style.opacity = opacity;
-	element.style.filter = 'alpha(opacity=' + opacity * 100 + ')';
-}
-
-function fadeInLinear(element, duration, steps) {
-	var opacity = 0.15;
-	setElementOpacity(element, opacity);
-	var timer = setInterval(function () {
-		if (opacity >= 1) {
-			clearInterval(timer);
-		}
-		setElementOpacity(element, opacity);
-		opacity += 1 / steps;
-	}, duration / steps);
-}
-
-function fadeOutLinear(element, duration, steps) {
-	var opacity = 1;
-	setElementOpacity(element, opacity);
-	var timer = setInterval(function () {
-		if (opacity < 0.1) {
-			clearInterval(timer);
-		}
-		setElementOpacity(element, opacity);
-		opacity -= 1 / steps;
-	}, duration / steps);
-}
-
-function updateCarosel(className, slideIndex, duration) {
-	var slides = document.getElementsByClassName(className);
-	slideIndex = slideIndex % slides.length;
-
-	for (var index = 0; index < slides.length; index++) {
-		slides[index].style.display = "none";
-	};
-	slides[slideIndex].style.display = "block";
-
-	var fadeDuration = 200;
-	var fadeSteps = 20;
-	fadeInLinear(slides[slideIndex], fadeDuration, fadeSteps);
-	setTimeout(function () {
-		fadeOutLinear(slides[slideIndex], fadeDuration, fadeSteps);
-	}, duration - fadeDuration + 2);
-}
-
-var visibleSlideIndex = 0;
-function flipCarousel(duration) {
-	updateCarosel("portfolio_slide", visibleSlideIndex, duration);
-	updateCarosel("jam_slide", visibleSlideIndex, duration);
-	visibleSlideIndex++;
-}
-
 function startCarousel(duration) {
-	flipCarousel(duration);
-	setInterval(() => { flipCarousel(duration); }, duration);
+	const slide_classes = ["portfolio_slide", "jam_slide"];
+	flipCarousel(duration, slide_classes);
+	setInterval(() => { flipCarousel(duration, slide_classes); }, duration);
 }
 
 startCarousel(3000);
 </script>
 
-<!-- <div class="jumbotron jestey_header" id="jestey_header3">
-</div>
- -->
+<div class="jestey_section" id="jestey_section5">
+	<div class="container jestey_content">
+		<h3>Techs</h3>
 
-<div class="jestey_section" id="jestey_section3">
+		<p>I am currently strongest in,</p>
+		<ul>
+			<li>Python</li>
+			<li>C#</li>
+			<li>C++</li>
+			<li>Unity3d</li>
+		</ul>
+
+		<p>I aspire to get stronger at,</p>
+		<ul>
+			<li>Racket</li>
+			<li>Rust</li>
+			<li>Haskell</li>
+			<li>Postgres</li>
+			<li>Unreal Engine</li>
+		</ul>
+
+		<p>The following are some tech stacks that I've worked on projects with:</p>
+		<ul>
+			<li>2018: Python with Sublime Text</li>
+			<li>2015: Unity with C#, Visual Studio, Sublime Text</li>
+			<li>2012: FlashDevelop with Adobe Air, gVim</li>
+			<li>2006: Windows XP with C#, WinForms, ASP.NET</li>
+			<li>2005: FreeBSD with Postgres, PHP, Apache</li>
+			<li>2003: Windows XP with Borland C++Builder, Win32 API</li>
+			<li>2000: Windows 98 with Visual Studio 6.0, Borland Delphi</li>
+			<li>1995: MS-DOS with Borland Turbo C++</li>
+			<li>1987: TRS-80 with Color Basic, Color Logo</li>
+		</ul>
+	</div>
+</div>
+
+<div class="jestey_section" id="jestey_section6">
 	<div class="container jestey_content">
 		<h3>Links</h3>
 		<ul>
 			<li><a href="https://ca.linkedin.com/in/jasonestey">LinkedIn</a></li>
-			<li><a href="https://github.com/parappayo/Bushido-Burrito/">GitHub</a></li>
+			<li><a href="https://github.com/parappayo/">GitHub</a></li>
 			<li><a href="https://twitter.com/parappayo">Twitter</a></li>
 		</ul>
 	</div>
 </div>
 
 </body>
-
 </html>

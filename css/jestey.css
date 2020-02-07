@@ -50,7 +50,31 @@ body {
 	background-image: url(../img/woodland.jpg);
 }
 
+#jestey_section2 {
+	background: linear-gradient(rgb(10, 24, 38), rgb(20, 56, 54));
+}
+
+#jestey_header3 {
+	background-image: url(../img/woodland.jpg);
+}
+
 #jestey_section3 {
+	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
+}
+
+#jestey_header4 {
+	background-image: url(../img/sleeping-dogs-art.jpg);
+}
+
+#jestey_section4 {
+	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
+}
+
+#jestey_section5 {
+	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
+}
+
+#jestey_section6 {
 	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
 }
 
