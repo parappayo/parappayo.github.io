@@ -87,3 +87,14 @@ body {
 	display: none;
 	height: 24em;
 }
+
+.link_floater {
+	float: left;
+	border: 1px solid;
+	padding: 0.8cm;
+	margin: 0.4cm
+}
+
+.link_floater:hover {
+	background-color: #004488
+}
