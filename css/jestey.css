@@ -9,7 +9,7 @@ body {
 
 .jestey_header {
 	font-family: 'Rubik', sans-serif;
-	min-height: 50em;
+	min-height: 35em;
 	margin-bottom: 0px;
 	background-attachment: fixed;
 	background-position: 0% 25%;
@@ -47,7 +47,8 @@ body {
 }
 
 #jestey_header2 {
-	background-image: url(../img/woodland.jpg);
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 #jestey_section2 {

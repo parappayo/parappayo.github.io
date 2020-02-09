@@ -7,6 +7,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/jestey.css" rel="stylesheet">
 	<script src="img_carosel.js"></script>
+	<script src="canvas_matrix_fx.js"></script>
 </head>
 
 <body>
@@ -39,7 +40,9 @@
 	</div>
 </div>
 
-<div class="jumbotron jestey_header" id="jestey_header2"></div>
+<div class="jumbotron jestey_header" id="jestey_header2">
+	<canvas id="matrix_fx"></canvas>
+</div>
 
 <div class="jestey_section" id="jestey_section2">
 	<div class="container jestey_content">
@@ -50,6 +53,8 @@
 		<p>Code reviews are a tricky topic that I have a lot of experience with. When done well, they provide a support structure for developers to get vitally important and constructive feedback on their work. When done poorly, they degenerate into an adult bullying playground that creates toxic cliques and drives competent developers away. It is not acceptable to skip code reviews, but it is also not acceptable for them to hurt people's feelings. As with all team communications, trust is a key factor.</p>
 	</div>
 </div>
+
+<div class="jumbotron jestey_header" id="jestey_header3"></div>
 
 <div class="jestey_section" id="jestey_section3">
 	<div class="container jestey_content">
@@ -122,6 +127,14 @@ function startCarousel(duration) {
 }
 
 startCarousel(3000);
+
+function startMatrixFx(duration) {
+	var canvasElement = document.getElementById('matrix_fx');
+	updateMatrixFx(canvasElement);
+	setInterval(() => { updateMatrixFx(canvasElement) }, duration);
+}
+
+startMatrixFx(150);
 </script>
 
 <div class="jestey_section" id="jestey_section5">
