@@ -8,6 +8,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. Stanley Kubrick - Full Metal Jacket, Dr. Strangelove, The Shining
 1. Kathryn Bigelow - Point Break, Strange Days, The Hurt Locker
 1. Terry Gilliam - Fear and Loathing in Las Vegas, Monty Python and the Holy Grail, The Adventures of Baron Munchausen
+1. Alfonso Cuarón - Children of Men, Y Tu Mamá También, Roma
 1. David Cronenberg - Scanners, Cosmopolis, eXistenZ
 1. David Fincher - The Social Network, Fight Club, The Girl with the Dragon Tattoo
 1. Ridley Scott - Alien, Blade Runner, Gladiator
@@ -27,6 +28,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. Taika Waititi - Jojo Rabbit, Thor: Ragnarok, Hunt for the Wilderpeople
 1. Lana & Lilli Wachowski - The Matrix, V for Vendetta, Jupiter Ascending
 1. Jean-Pierre Jeunet - Amelie, Delicatessen, A Very Long Engagement
+1. Sophia Coppola - Lost in Translation, Marie Antoinette, Somewhere
 1. Joe Wright - Pride & Prejudice, Hannah, The Soloist
 1. Ringo Lam - City on Fire, Prison on Fire, Full Contact
 1. Baz Luhrmann - Strictly Ballroom, Romeo + Juliet, The Great Gatsby
