@@ -2,17 +2,17 @@
 
 Cheat sheet for various ways of playing MtG.
 
-## Draft Formats
+## Limited Formats
+
+### Sealed Deck
+
+Each player opens six booster packs (typically limited to a specific set or block) and uses only those cards (with unlimited basic lands) to build a 40 card deck.
 
 ### Booster Draft
 
 Any number of players sit in a circle and start with 3 unopened booster packs. For each round, each player opens one booster pack, inspects the cards from it, takes one card, and passes the rest of the cards clockwise (for the first and third rounds; counter-clockwise for the second round.) Players continue selecting and passing cards until none are left. The players build 40 card decks from their drafted cards.
 
-### Cube Draft
-
-A variant where instead of using booster packs to populate card pools, cards are randomly selected from a pre-determined pool of cards call the Cube. Piles of 15 random cards can stand-in for each booster pack.
-
-### Manchester Draft
+### Rochester Draft
 
 Start with 3 unopened booster packs for each player. For each round, open one booster back and place all of the cards it contains face-up in the middle. Players take turns selecting a card in clockwise order. Select and initial starting player at random and move the starting position clockwise for each round.
 
@@ -25,6 +25,14 @@ Two players alternate selecting from a pool of 90 cards. To start, deal the top 
 ### Winchester Draft
 
 Two players alternate selecting from a pool of 90 cards. To start, deal four cards face up into one-card piles. On each player's turn, the player takes the cards from one of the piles, and afterward a card is dealt face-up into each of the piles (unless there are no more cards.)
+
+### Cube Draft
+
+A variant where instead of using booster packs to populate card pools, cards are randomly selected from a pre-determined pool of cards call the Cube. Piles of 15 random cards can stand-in for each booster pack. Typically players do not keep their selected cards in a Cube format.
+
+### Reject Rare Draft
+
+Uses a pool of cards formed from "junk rares" provided by the participants.
 
 ## Constructed Formats
 
@@ -43,6 +51,10 @@ Only new-bordered cards. Typically starting from the Mirrodin set.
 ### Classic
 
 Only old-bordered cards. Typically ending with the Scourge set.
+
+### Legacy
+
+Allows all cards not on the ban list.
 
 ### Block / Set
 
@@ -64,13 +76,21 @@ Only low-value commons allowed. "Low-value" is typically defined as being traded
 
 Uses an arbitrary card list.
 
+### Singleton
+
+A deck may only contain 1 of any card except basic lands.
+
+### Tribal Wars
+
+One-third of the deck must share a common creature type.
+
 ### Commander
 
 Each deck is 100 cards and lead by a legendary creature designated the "commander." Cards in the deck can only be of one of the commander's colours. (Lots of other rules.)
 
 Also known as Elder Dragon Highlander.
 
-## Player Arrangements
+## Multiplayer Formats
 
 ### Gathering
 
@@ -101,3 +121,7 @@ It is difficult to play this card without the aid of a computer since this forma
 ### Chaos Magic
 
 When a player is defeated, the player with the highest life total wins (works best with many players.) There is no limit on how many copies of a card a player can have in their deck. Life totals are kept secret.
+
+## Juleokin
+
+Consolidates life and library into life-library. Basic lands do not tap but still count toward casting cost.
