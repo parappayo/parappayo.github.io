@@ -10,6 +10,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. Terry Gilliam - Fear and Loathing in Las Vegas, Monty Python and the Holy Grail, The Adventures of Baron Munchausen
 1. David Fincher - The Social Network, Fight Club, The Girl with the Dragon Tattoo
 1. Alfonso Cuarón - Children of Men, Y Tu Mamá También, Roma
+1. Jordan Peele - Get Out, Us, Lovecraft Country
 1. David Cronenberg - Scanners, Cosmopolis, eXistenZ
 1. Ridley Scott - Alien, Blade Runner, Gladiator
 1. John Woo - Hard Boiled, The Killer, A Better Tomorrow
