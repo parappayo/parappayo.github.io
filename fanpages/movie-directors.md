@@ -18,6 +18,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. James Cameron - Terminator 2, Aliens, Avatar
 1. Christopher Nolan - The Prestige, Inception, Batman Begins
 1. Chia-Liang Liu - The Legend of Drunken Master, The 36th Chamber of Shaolin, My Young Auntie
+1. Spike Lee - Do The Right Thing, She's Gotta Have It, Inside Man
 1. Martin Scorsese - Goodfellas, The Departed, Kundun
 1. Johnnie To - Election, Drug War, PTU
 1. Michel Gondry - Eternal Sunshine of the Spotless Mind, Be Kind Rewind, The Science of Sleep
