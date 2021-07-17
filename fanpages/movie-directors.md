@@ -18,6 +18,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. James Cameron - Terminator 2, Aliens, Avatar
 1. David Lynch - Mulholland Drive, Wild at Heart, Eraserhead
 1. Christopher Nolan - The Prestige, Inception, Batman Begins
+1. Ang Lee - Crouching Tiger, Hidden Dragon, The Ice Storm, Brokeback Mountain
 1. John Woo - Hard Boiled, The Killer, A Better Tomorrow
 1. Jordan Peele - Get Out, Us, Lovecraft Country
 1. Martin Scorsese - Goodfellas, The Departed, Kundun
@@ -36,5 +37,6 @@ A loose, personal ranking. Three significant works listed for context.
 1. Taika Waititi - Jojo Rabbit, Thor: Ragnarok, Hunt for the Wilderpeople
 1. Joe Wright - Pride & Prejudice, Hannah, The Soloist
 1. Baz Luhrmann - Strictly Ballroom, Romeo + Juliet, The Great Gatsby
+1. John Carpenter - They Live, Escape from New York, The Thing
 1. Ringo Lam - City on Fire, Prison on Fire, Full Contact
 1. Quentin Tarentino - Pulp Fiction, Inglorious Basterds, Kill Bill
