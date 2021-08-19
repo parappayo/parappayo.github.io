@@ -19,6 +19,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. David Lynch - Mulholland Drive, Wild at Heart, Eraserhead
 1. Christopher Nolan - The Prestige, Inception, Batman Begins
 1. Ang Lee - Crouching Tiger, Hidden Dragon, The Ice Storm, Brokeback Mountain
+1. Noah Baumbach - The Squid and the Whale, Frances Ha, Marriage Story
 1. John Woo - Hard Boiled, The Killer, A Better Tomorrow
 1. Jordan Peele - Get Out, Us, Lovecraft Country
 1. Martin Scorsese - Goodfellas, The Departed, Kundun
