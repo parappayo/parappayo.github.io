@@ -1,13 +1,18 @@
 # Timeline of Important JRPGs
 
+* 1983
+  * [Ken to Mahou](http://www.hardcoregaming101.net/ken-to-mahou-sword-sorcery-dark-age-of-jrpgs/)
+  * [Bokosuka Wars](http://crpgaddict.blogspot.com/2019/07/game-334-bokosuka-wars-1983.html)
 * 1984
   * [Dragon Slayer](http://www.hardcoregaming101.net/dragon-slayer/)
+  * [The Black Onyx](https://en.wikipedia.org/wiki/The_Black_Onyx)
   * [Hydlide](http://www.hardcoregaming101.net/hydlide-article/)
 * 1985
-  * Xanadu: Dragon Slayer II
-* 1986
   * [Dragon Quest](http://www.hardcoregaming101.net/dragon-quest/)
   * The Legend of Zelda
+  * [Xanadu](http://www.hardcoregaming101.net/xanadu/)
+* 1986
+  * [Romancia](http://www.hardcoregaming101.net/romancia/)
 * 1987
   * Final Fantasy
   * Megami Tensei
@@ -15,6 +20,7 @@
   * Zelda II: The Adventure of Link
   * Ys I: Ancient Ys Vanished
   * Phantasy Star
+  * [Dragon Slayer IV: Drasle Family](http://www.hardcoregaming101.net/legacy-of-the-wizard/) (Legacy of the Wizard)
   * [Sorcerian](http://www.hardcoregaming101.net/sorcerian/)
   * Faxanadu
   * [Zeliard](http://www.hardcoregaming101.net/zeliard/)
@@ -39,7 +45,7 @@
   * Seiken Densetsu
   * [Popful Mail](http://www.hardcoregaming101.net/popful-mail/)
   * SaGa 3: Jikuu no Hasha
-  * Lord Monarch
+  * [Lord Monarch](http://www.hardcoregaming101.net/lord-monarch/)
 * 1992
   * [Dragon Quest V: Hand of the Heavenly Bride](http://www.hardcoregaming101.net/dragon-quest-v-hand-of-the-heavenly-bride/)
   * Final Fantasy V
@@ -107,6 +113,7 @@
 * 1999
   * Persona 2: Innocent Sin
   * Final Fantasy VIII
+  * Valkyrie Profile
   * Chrono Cross
   * Ogre Battle 64: Person of Lordly Caliber
   * Torneko: The Last Hope
@@ -166,6 +173,7 @@
   * Final Fantasy XII
   * Suikoden V
   * Persona 3
+  * Valkyrie Profile 2: Silmeria
   * The Legend of Heroes: Trails in the Sky SC
   * The Legend of Zelda: Twilight Princess
   * Blue Dragon
