@@ -15,11 +15,11 @@
   * Zelda II: The Adventure of Link
   * Ys I: Ancient Ys Vanished
   * Phantasy Star
-  * Sorcerian
+  * [Sorcerian](http://www.hardcoregaming101.net/sorcerian/)
   * Faxanadu
   * [Zeliard](http://www.hardcoregaming101.net/zeliard/)
 * 1988
-  * Dragon Quest III: The Seeds of Salvation
+  * [Dragon Quest III: The Seeds of Salvation](http://www.hardcoregaming101.net/dragon-quest-iii/)
   * Final Fantasy II
   * Ys II: Ancient Ys Vanished – The Final Chapter
 * 1989
@@ -27,8 +27,9 @@
   * Ys III: Wanderers from Ys
   * Dragon Slayer: The Legend of Heroes
   * Makai Toushi SaGa
+  * [Dragon Knight](http://www.hardcoregaming101.net/dragon-knight/)
 * 1990
-  * Dragon Quest IV: Chapters of the Chosen
+  * [Dragon Quest IV: Chapters of the Chosen](http://www.hardcoregaming101.net/dragon-quest-iv-the-chapters-of-the-chosen/)
   * Final Fantasy III
   * Phantasy Star III
   * SaGa 2: Hihou Densetsu
@@ -36,10 +37,11 @@
   * Final Fantasy IV
   * The Legend of Zelda: A Link to the Past
   * Seiken Densetsu
+  * [Popful Mail](http://www.hardcoregaming101.net/popful-mail/)
   * SaGa 3: Jikuu no Hasha
   * Lord Monarch
 * 1992
-  * Dragon Quest V: Hand of the Heavenly Bride
+  * [Dragon Quest V: Hand of the Heavenly Bride](http://www.hardcoregaming101.net/dragon-quest-v-hand-of-the-heavenly-bride/)
   * Final Fantasy V
   * Shin Megami Tensei
   * Lunar: The Silver Star
@@ -65,7 +67,7 @@
   * Robotrek
 * 1995
   * Chrono Trigger
-  * Dragon Quest VI: Realms of Revelation
+  * [Dragon Quest VI: Realms of Revelation](http://www.hardcoregaming101.net/dragon-quest-vi-realms-of-revelation/)
   * Seiken Densetsu 3
   * Suikoden
   * Tactics Ogre: Let Us Cling Together
@@ -113,7 +115,7 @@
   * SaGa Frontier 2
 * 2000
   * Final Fantasy IX
-  * Dragon Quest VII: Fragments of the Forgotten Past
+  * [Dragon Quest VII: Fragments of the Forgotten Past](http://www.hardcoregaming101.net/dragon-quest-vii-fragments-of-the-forgotten-past/)
   * Vagrant Story
   * The Legend of Zelda: Majora's Mask
   * Persona 2: Eternal Punishment
@@ -143,7 +145,7 @@
   * Star Ocean: Till the End of Time
   * Ys VI: The Ark of Napishtim
 * 2004
-  * Dragon Quest VIII: Journey of the Cursed King
+  * [Dragon Quest VIII: Journey of the Cursed King](http://www.hardcoregaming101.net/dragon-warrior-viii-journey-of-the-cursed-king/)
   * The Legend of Heroes: Trails in the Sky
   * Shadow Hearts: Covenant
   * Phantom Brave
@@ -240,7 +242,7 @@
   * Etrian Odyssey 2 Untold
   * Star Ocean: Integrity and Faithlessness
 * 2017
-  * Dragon Quest XI: Echoes of an Elusive Age
+  * [Dragon Quest XI: Echoes of an Elusive Age](http://www.hardcoregaming101.net/dragon-quest-xi-echoes-of-an-elusive-age/)
   * Etrian Odyssey V
   * The Legend of Heroes: Trails of Cold Steel III
   * The Legend of Zelda: Breath of the Wild
