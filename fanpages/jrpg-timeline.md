@@ -168,8 +168,8 @@
   * Tales of Xillia
   * The Legend of Heroes: Trails to Azure
 * 2012
- * Ys: Memories of Celceta
- * Tales of Xillia 2
+  * Ys: Memories of Celceta
+  * Tales of Xillia 2
 * 2013
   * Shin Megami Tensei IV
   * Etrian Odyssey IV
