@@ -34,6 +34,7 @@
   * Dragon Slayer: The Legend of Heroes
   * Makai Toushi SaGa
   * [Dragon Knight](http://www.hardcoregaming101.net/dragon-knight/)
+  * Tengai Makyou: Ziria
 * 1990
   * [Dragon Quest IV: Chapters of the Chosen](http://www.hardcoregaming101.net/dragon-quest-iv-the-chapters-of-the-chosen/)
   * Final Fantasy III
@@ -54,6 +55,7 @@
   * Romancing SaGa
   * Dragon Slayer: The Legend of Heroes II
   * Soul Blazer
+  * Tengai Makyou II: Manjimaru
 * 1993
   * Seiken Densetsu 2 (Secret of Mana)
   * The Legend of Zelda: Link's Awakening
@@ -65,6 +67,7 @@
   * Romancing SaGa 2
   * Ys IV: Mask of the Sun
   * Ys IV: The Dawn of Ys
+  * Tengai Makyou: Fuun Kabukiden
 * 1994
   * Final Fantasy VI
   * Shin Megami Tensei II
@@ -94,6 +97,7 @@
   * Final Fantasy Tactics
   * Final Fantasy VII
   * Grandia
+  * Princess Crown
   * Tales of Destiny
   * Lunar: Magic School
   * Chocobo's Mysterious Dungeon
@@ -160,6 +164,7 @@
   * Suikoden IV
   * Xenosaga Episode II
   * Tales of Rebirth
+  * Stella Deus: The Gate of Eternity
   * The Nightmare of Druaga
 * 2005
   * Ys: The Oath in Felghana
@@ -169,6 +174,7 @@
   * Shadow Hearts: From the New World
   * Makai Kingdom
   * Tales of the Abyss
+  * Radiata Stories
 * 2006
   * Final Fantasy XII
   * Suikoden V
@@ -184,6 +190,7 @@
 * 2007
   * Etrian Odyssey
   * Lost Odyssey
+  * Odin Sphere
   * Eternal Sonata
   * Soul Nomad & The World Eaters
   * Tales of Innocence
@@ -199,6 +206,7 @@
   * The Last Remnant
   * Disgaea 3: Absence of Justice
   * White Knight Chronicles
+  * Infinite Undiscovery
 * 2009
   * Dragon Quest IX: Sentinels of the Starry Skies
   * Final Fantasy XIII
@@ -211,6 +219,7 @@
   * Ni no Kuni: Dominion of the Dark Djinn
   * Xenoblade Chronicles
   * Radiant Historia
+  * Z.H.P. Unlosing Ranger VS Darkdeath Evilman
   * End of Eternity (Resonance of Fate)
   * Etrian Odyssey III
   * Shiren the Wanderer 4
@@ -229,11 +238,14 @@
   * Persona 4 Golden
   * Ys: Memories of Celceta
   * Tales of Xillia 2
+  * Fantasy Life
 * 2013
   * Shin Megami Tensei IV
   * Etrian Odyssey IV
   * The Legend of Heroes: Trails of Cold Steel
   * The Legend of Zelda: A Link Between Worlds
+  * The Guided Fate Paradox
+  * Dragon's Crown
 * 2014
   * Etrian Odyssey Untold
   * The Legend of Heroes: Trails of Cold Steel II
@@ -241,11 +253,13 @@
   * Bravely Second: End Layer
   * Tales of Zestiria
   * Disgaea 5: Alliance of Vengeance
+  * The Awakened Fate Ultimatum
 * 2016
   * Persona 5
   * Final Fantasy XV
   * Shin Megami Tensei IV: Apocalypse
   * Ys VIII: Lacrimosa of Dana
+  * I am Setsuna
   * Tales of Berseria
   * Etrian Odyssey 2 Untold
   * Star Ocean: Integrity and Faithlessness
@@ -255,13 +269,17 @@
   * The Legend of Heroes: Trails of Cold Steel III
   * The Legend of Zelda: Breath of the Wild
   * Xenoblade Chronicles 2
+  * Lost Sphear
 * 2018
   * Ni no Kuni II: Revenant Kingdom
+  * Octopath Traveller
   * Etrian Odyssey Nexus
   * The Legend of Heroes: Trails of Cold Steel IV
+  * Labyrinth of Refrain: Coven of Dusk
 * 2019
   * Ys IX: Monstrum Nox
   * Persona 5 Royal
+  * Oninaki
 * 2020
   * Seiken Densetsu 3: Trials of Mana
   * Persona 5 Strikers
