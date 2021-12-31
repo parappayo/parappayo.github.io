@@ -24,10 +24,13 @@
   * [Sorcerian](http://www.hardcoregaming101.net/sorcerian/)
   * Faxanadu
   * [Zeliard](http://www.hardcoregaming101.net/zeliard/)
+  * Gandhara: Buddha no Seisen
 * 1988
   * [Dragon Quest III: The Seeds of Salvation](http://www.hardcoregaming101.net/dragon-quest-iii/)
   * Final Fantasy II
   * Ys II: Ancient Ys Vanished – The Final Chapter
+  * Last Armageddon
+  * XZR (Exile)
 * 1989
   * Phantasy Star II
   * Ys III: Wanderers from Ys
@@ -39,6 +42,7 @@
   * [Dragon Quest IV: Chapters of the Chosen](http://www.hardcoregaming101.net/dragon-quest-iv-the-chapters-of-the-chosen/)
   * Final Fantasy III
   * Phantasy Star III
+  * Fire Emblem
   * SaGa 2: Hihou Densetsu
 * 1991
   * Final Fantasy IV
@@ -46,16 +50,19 @@
   * Seiken Densetsu
   * [Popful Mail](http://www.hardcoregaming101.net/popful-mail/)
   * SaGa 3: Jikuu no Hasha
+  * Langrisser
   * [Lord Monarch](http://www.hardcoregaming101.net/lord-monarch/)
 * 1992
   * [Dragon Quest V: Hand of the Heavenly Bride](http://www.hardcoregaming101.net/dragon-quest-v-hand-of-the-heavenly-bride/)
   * Final Fantasy V
   * Shin Megami Tensei
   * Lunar: The Silver Star
+  * Fire Emblem Gaiden
   * Romancing SaGa
   * Dragon Slayer: The Legend of Heroes II
   * Soul Blazer
   * Tengai Makyou II: Manjimaru
+  * Megami Tensei: Last Bible
 * 1993
   * Seiken Densetsu 2 (Secret of Mana)
   * The Legend of Zelda: Link's Awakening
@@ -64,15 +71,20 @@
   * Torneko's Great Adventure
   * Illusion of Gaia
   * Estpolis Denki (Lufia & The Fortress of Doom)
+  * Albert Odyssey
   * Romancing SaGa 2
   * Ys IV: Mask of the Sun
   * Ys IV: The Dawn of Ys
+  * Breath of Fire
   * Tengai Makyou: Fuun Kabukiden
 * 1994
   * Final Fantasy VI
   * Shin Megami Tensei II
   * Lunar: Eternal Blue
+  * Breath of Fire II
+  * Langrisser II
   * The Legend of Xanadu
+  * Albert Odyssey 2: Jashin no Taidou
   * Robotrek
 * 1995
   * Chrono Trigger
@@ -92,16 +104,20 @@
   * Lunar: Silver Star Story Complete
   * Star Ocean
   * Vandal Hearts
+  * Albert Odyssey: Legend of Eldean
   * Treasure of the Rudras
+  * Langrisser III
 * 1997
   * Final Fantasy Tactics
   * Final Fantasy VII
   * Grandia
   * Princess Crown
+  * Breath of Fire III
   * Tales of Destiny
   * Lunar: Magic School
   * Chocobo's Mysterious Dungeon
   * SaGa Frontier
+  * Langrisser IV
   * The Granstream Saga
 * 1998
   * Xenogears
@@ -114,6 +130,7 @@
   * [Rhapsody: A Musical Adventure](http://www.hardcoregaming101.net/rhapsody-a-musical-adventure/)
   * Dungeon Master Nexus
   * Kartia: The Word of Fate
+  * Langrisser V: The End of Legend
 * 1999
   * Persona 2: Innocent Sin
   * Final Fantasy VIII
@@ -122,6 +139,7 @@
   * Ogre Battle 64: Person of Lordly Caliber
   * Torneko: The Last Hope
   * Vandal Hearts II
+  * Growlanser
   * Koudelka
   * SaGa Frontier 2
 * 2000
@@ -132,10 +150,18 @@
   * Persona 2: Eternal Punishment
   * Grandia II
   * Dark Cloud
+  * Breath of Fire IV
+  * Skies of Arcadia
+  * Sakura Taisen
   * Tales of Eternia
+  * Eldorado Gate
 * 2001
   * Final Fantasy X
   * Shadow Hearts
+  * Golden Sun
+  * Growlanser II: The Sense of Justice
+  * Okage: Shadow King
+  * Segagaga
   * Hoshigami: Ruining Blue Earth
 * 2002
   * Dark Chronicle (Dark Cloud 2)
