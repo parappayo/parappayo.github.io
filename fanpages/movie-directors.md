@@ -21,7 +21,7 @@ A loose, personal ranking. Three significant works listed for context.
 1. Ang Lee - Crouching Tiger, Hidden Dragon, The Ice Storm, Brokeback Mountain
 1. Noah Baumbach - The Squid and the Whale, Frances Ha, Marriage Story
 1. John Woo - Hard Boiled, The Killer, A Better Tomorrow
-1. Jordan Peele - Get Out, Us, Lovecraft Country
+1. Jordan Peele - Get Out, Us, Nope
 1. Martin Scorsese - Goodfellas, The Departed, Kundun
 1. Michel Gondry - Eternal Sunshine of the Spotless Mind, Be Kind Rewind, The Science of Sleep
 1. Derek Ciafrance - Blue Valentine, The Place Beyond the Pines, I Know This Much Is True
