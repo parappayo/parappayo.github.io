@@ -19,7 +19,7 @@ body {
 
 .jestey_section {
 	font-family: 'Rubik', sans-serif;
-	min-height: 50em;
+	min-height: 30em;
 	font-size: 16pt;
 	color: white;
 	text-shadow: black 2px 2px 2px;
@@ -33,7 +33,7 @@ body {
 }
 
 #jestey_header1 {
-	background-image: url(../img/mainst.jpg);
+	background-image: url(../img/woodland.jpg);
 }
 
 #jestey_section1 {
@@ -57,7 +57,7 @@ body {
 }
 
 #jestey_header3 {
-	background-image: url(../img/woodland.jpg);
+	background-image: url(../img/mainst.jpg);
 }
 
 #jestey_section3 {
@@ -78,6 +78,7 @@ body {
 
 #jestey_section6 {
 	background: linear-gradient(rgb(10, 24, 38), rgb(10, 10, 10));
+	min-height: 50em;
 }
 
 .portfolio_slide {
